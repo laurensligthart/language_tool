@@ -1,1 +1,126 @@
+sein;to be
+werden;to become
+haben;to have
+können;to can
+müssen;to must
+geben;to give
+sollen;to should
+sagen;to say
+wollen;to want
+kommen;to come
 gehen;to go
+machen;to do
+stehen;to stand
+sehen;to see
+finden;to find
+bleiben;to stay
+liegen;to lie
+stellen;to put
+nehmen;to take
+dürfen;to be allowed
+bringen;to bring
+halten;to hold
+spielen;to play
+heissen;to be called
+wissen;to know
+erklären;to explain
+gehören;to belong
+beginnen;to begin
+sprechen;to speak
+tun;to do
+mögen;to like
+gewinnen;to win
+bekommen;to get
+schreiben;to write
+arbeiten;to work
+treffen;to meet
+zahlen;to pay
+leben;to live
+laufen;to walk
+brauchen;to need
+feiern;to celebrate
+fahren;to drive
+suchen;to search
+legen;to put
+glauben;to believe
+scheinen;to seem
+schliessen;to close
+fehlen;to lack
+kennen;to know
+fragen;to ask
+neu;new
+gut;good
+gross;big
+alt;old
+hoch;high
+klein;small
+lang;long
+jung;young
+spät;late
+wichtig;important
+kurz;short
+früh;early
+schwer;heavy
+richtig;right
+schnell;fast
+leicht;light
+schlecht;bad
+falsch;wrong
+teuer;expensive
+langsam;slow
+niedrig;low
+kalt;cold
+gesund;healthy
+laut;loud
+warm;warm
+billig;cheap
+krank;ill
+leise;quiet
+müde;tired
+der Arm;the arm
+das Auge;the eye
+der Bauch;the stomach
+das Bein;the leg
+das Blut;the blood
+die Brust;the breast
+der Finger;the finger
+der Fuss;the foot
+das Gesicht;the face
+das Haar;the hair
+der Hals;the neck
+die Hand;the hand
+die Haut;the skin
+das Herz;the heart
+das Knie;the knee
+der Kopf;the head
+der Körper;the body
+der Mund;the mouth
+die Nase;the nose
+das Ohr;the ear
+der Rücken;the back
+schwach;weak
+stark;strong
+der Zahn;the tooth
+die Zunge;the tongue
+der Atem;the breath
+atmen;to breathe
+die Backe;the cheek
+der Ellbogen;the elbow
+die Faust;the fist
+das Gehirn;the brain
+das Gelenk;the joint
+das Handgelenk;the wrist
+das Fussgelenk;the ankle
+das Kinn;the chin
+der Knochen;the bone
+der Leib;the body
+das Augenlid;the eyelid
+die Lippe;the lip
+die Lunge;the lung
+der Magen;the stomach
+der Muskel;the muscle
+der Nerv;the nerve
+die Schulter;the shoulder
+der Schweiss;the sweat
+die Stirn;the forehead
+der Zeh;the toe
