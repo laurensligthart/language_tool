@@ -2,8 +2,8 @@ README
 
 Open the german.py file in a python interpreter, or place it
 somewhere where a python console can find it. In the console
-type 'import german.py' to import the functions to your cur-
-rent session.
+type 'import german' or 'from german import *' to import the 
+functions to your current session.
 Alternatively, uncomment the last three lines and run the
 program to automatically complete a full practice session.
 
